@@ -1,3 +1,4 @@
+export const dynamic = "force-dynamic";
 export default async function About() {
   // await new Promise((resolve) => setTimeout(resolve, 2000));
   // throw new Error("Please try again");
